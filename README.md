@@ -1,1 +1,3 @@
-# zigbee_nodeboard
+# Zigbee NodeBoard
+
+![pinout](img/pinout.png)
